@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F22D147F-13BD-420E-9270-B36041CB44D2}|">
+  <MonoDevelop.Ide.ItemProperties.MvcTest PreferredExecutionTarget="firefox" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcTest/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MvcTest/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MvcTest.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
